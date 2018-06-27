@@ -5,7 +5,7 @@ The goal of this repository is to provide an example of a competitive analysis f
 
 ```
 For Kaggle Competition this code results in over 80 % percent accuracy
-Top 8% result for Kaggle
+Top 7% result for Kaggle
 ```
 
 
